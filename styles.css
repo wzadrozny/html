@@ -3,3 +3,15 @@ body {
   background-color: #08040c;
   color: white;
 }
+
+body h1 {
+  text-allign: center;
+  width: 60%;
+  left: 20%;
+  right: 20%;
+}
+body div {
+  width: 60%;
+  left: 20%;
+  right: 20%;
+}
